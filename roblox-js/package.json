@@ -1,0 +1,99 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "roblox-js",
+        "scope": null,
+        "escapedName": "roblox-js",
+        "name": "roblox-js",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Pen54321\\Documents\\ColoniaBot"
+    ]
+  ],
+  "_from": "roblox-js@latest",
+  "_id": "roblox-js@4.0.2",
+  "_inCache": true,
+  "_location": "/roblox-js",
+  "_nodeVersion": "7.4.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/roblox-js-4.0.2.tgz_1508462226244_0.11674321419559419"
+  },
+  "_npmUser": {
+    "name": "froast",
+    "email": "froastj@gmail.com"
+  },
+  "_npmVersion": "4.0.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "roblox-js",
+    "scope": null,
+    "escapedName": "roblox-js",
+    "name": "roblox-js",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/roblox-js/-/roblox-js-4.0.2.tgz",
+  "_shasum": "c0646457aa640a5f4e9718601dc3a60c9304999d",
+  "_shrinkwrap": null,
+  "_spec": "roblox-js",
+  "_where": "C:\\Users\\Pen54321\\Documents\\ColoniaBot",
+  "author": {
+    "name": "Joshua Lanese",
+    "email": "froastj@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sentanos/roblox-js/issues"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "cheerio": "^1.0.0-rc.2",
+    "entities": "^1.1.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "signalr-client": "0.0.17"
+  },
+  "description": "A node module that provides an interface for performing actions on ROBLOX, mostly for use with their HttpService feature.",
+  "devDependencies": {
+    "JSONStream": "^1.3.1",
+    "progress": "^2.0.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "c0646457aa640a5f4e9718601dc3a60c9304999d",
+    "tarball": "https://registry.npmjs.org/roblox-js/-/roblox-js-4.0.2.tgz"
+  },
+  "gitHead": "221bb326786c3f6f8a10fed7175f6ff9e1769c50",
+  "homepage": "https://github.com/sentanos/roblox-js",
+  "keywords": [
+    "roblox",
+    "bot",
+    "clans"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "froast",
+      "email": "froastj@gmail.com"
+    }
+  ],
+  "name": "roblox-js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sentanos/roblox-js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "4.0.2"
+}
