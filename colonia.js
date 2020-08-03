@@ -33,11 +33,11 @@ var requiredGroupXP = [
   // Rank name, XP amount, role number
   ["[PC] Peacekeeper Initiate", 0, 1],
   ["[PC] Peacekeeper C", 10, 2],
-  ["[PC] Peacekeeper Z", 30, 3],
+  ["[PC] Peacekeeper Z", 40, 3],
   ["[CC] Combat Unit B", 80, 4],
   ["[CC] Combat Unit D", 120, 5],
   ["[CC] Combat Unit A", 240, 6],
-  ["[CC] Combat Unit O", 350, 7],
+  ["[CC] Combat Unit O", 360, 7],
 ];
 
 
