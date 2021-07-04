@@ -31,13 +31,13 @@ var username = "Imperium XP";
 
 var requiredGroupXP = [
   // Rank name, XP amount, role number
-  ["[PC] Peacekeeper Initiate", 0, 1],
-  ["[PC] Peacekeeper C", 10, 2],
-  ["[PC] Peacekeeper Z", 40, 3],
-  ["[CC] Combat Unit B", 80, 4],
-  ["[CC] Combat Unit D", 120, 5],
-  ["[CC] Combat Unit A", 240, 6],
-  ["[CC] Combat Unit O", 360, 7],
+  ["[P1] Conscript", 0, 1],
+  ["[P2] Auxiliary", 10, 2],
+  ["[P3] Watchmen", 40, 3],
+  ["[C1] Trooper", 80, 4],
+  ["[C2] Rifleman", 120, 5],
+  ["[C3] Grenadier", 240, 6],
+  ["[NCO] Sergeant", 360, 7],
 ];
 
 
